@@ -1,0 +1,10 @@
+C:\Users\anaka\Desktop\coding\Swift\GetAllTeachersByStudent\GetAllTeachersByStudent\bin\Debug\GetAllTeachersByStudent.exe.config
+C:\Users\anaka\Desktop\coding\Swift\GetAllTeachersByStudent\GetAllTeachersByStudent\bin\Debug\GetAllTeachersByStudent.exe
+C:\Users\anaka\Desktop\coding\Swift\GetAllTeachersByStudent\GetAllTeachersByStudent\bin\Debug\GetAllTeachersByStudent.pdb
+C:\Users\anaka\Desktop\coding\Swift\GetAllTeachersByStudent\GetAllTeachersByStudent\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\anaka\Desktop\coding\Swift\GetAllTeachersByStudent\GetAllTeachersByStudent\obj\Debug\GetAllTeachersByStudent.csproj.AssemblyReference.cache
+C:\Users\anaka\Desktop\coding\Swift\GetAllTeachersByStudent\GetAllTeachersByStudent\obj\Debug\GetAllTeachersByStudent.csproj.SuggestedBindingRedirects.cache
+C:\Users\anaka\Desktop\coding\Swift\GetAllTeachersByStudent\GetAllTeachersByStudent\obj\Debug\GetAllTeachersByStudent.csproj.CoreCompileInputs.cache
+C:\Users\anaka\Desktop\coding\Swift\GetAllTeachersByStudent\GetAllTeachersByStudent\obj\Debug\GetAllTeachersByStudent.csproj.CopyComplete
+C:\Users\anaka\Desktop\coding\Swift\GetAllTeachersByStudent\GetAllTeachersByStudent\obj\Debug\GetAllTeachersByStudent.exe
+C:\Users\anaka\Desktop\coding\Swift\GetAllTeachersByStudent\GetAllTeachersByStudent\obj\Debug\GetAllTeachersByStudent.pdb
