@@ -1,0 +1,8 @@
+C:\Users\anaka\Desktop\coding\Swift\NotContains\NotContains\bin\Debug\NotContains.exe.config
+C:\Users\anaka\Desktop\coding\Swift\NotContains\NotContains\bin\Debug\NotContains.exe
+C:\Users\anaka\Desktop\coding\Swift\NotContains\NotContains\bin\Debug\NotContains.pdb
+C:\Users\anaka\Desktop\coding\Swift\NotContains\NotContains\obj\Debug\NotContains.csproj.AssemblyReference.cache
+C:\Users\anaka\Desktop\coding\Swift\NotContains\NotContains\obj\Debug\NotContains.csproj.SuggestedBindingRedirects.cache
+C:\Users\anaka\Desktop\coding\Swift\NotContains\NotContains\obj\Debug\NotContains.csproj.CoreCompileInputs.cache
+C:\Users\anaka\Desktop\coding\Swift\NotContains\NotContains\obj\Debug\NotContains.exe
+C:\Users\anaka\Desktop\coding\Swift\NotContains\NotContains\obj\Debug\NotContains.pdb

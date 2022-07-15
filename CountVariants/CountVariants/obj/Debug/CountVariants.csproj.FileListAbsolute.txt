@@ -1,0 +1,8 @@
+C:\Users\anaka\Desktop\coding\Swift\CountVariants\CountVariants\bin\Debug\CountVariants.exe.config
+C:\Users\anaka\Desktop\coding\Swift\CountVariants\CountVariants\bin\Debug\CountVariants.exe
+C:\Users\anaka\Desktop\coding\Swift\CountVariants\CountVariants\bin\Debug\CountVariants.pdb
+C:\Users\anaka\Desktop\coding\Swift\CountVariants\CountVariants\obj\Debug\CountVariants.csproj.AssemblyReference.cache
+C:\Users\anaka\Desktop\coding\Swift\CountVariants\CountVariants\obj\Debug\CountVariants.csproj.SuggestedBindingRedirects.cache
+C:\Users\anaka\Desktop\coding\Swift\CountVariants\CountVariants\obj\Debug\CountVariants.csproj.CoreCompileInputs.cache
+C:\Users\anaka\Desktop\coding\Swift\CountVariants\CountVariants\obj\Debug\CountVariants.exe
+C:\Users\anaka\Desktop\coding\Swift\CountVariants\CountVariants\obj\Debug\CountVariants.pdb

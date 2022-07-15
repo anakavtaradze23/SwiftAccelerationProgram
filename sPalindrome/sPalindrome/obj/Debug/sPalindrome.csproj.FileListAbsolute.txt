@@ -1,0 +1,8 @@
+C:\Users\anaka\Desktop\coding\Swift\sPalindrome\sPalindrome\bin\Debug\sPalindrome.exe.config
+C:\Users\anaka\Desktop\coding\Swift\sPalindrome\sPalindrome\bin\Debug\sPalindrome.exe
+C:\Users\anaka\Desktop\coding\Swift\sPalindrome\sPalindrome\bin\Debug\sPalindrome.pdb
+C:\Users\anaka\Desktop\coding\Swift\sPalindrome\sPalindrome\obj\Debug\sPalindrome.csproj.AssemblyReference.cache
+C:\Users\anaka\Desktop\coding\Swift\sPalindrome\sPalindrome\obj\Debug\sPalindrome.csproj.SuggestedBindingRedirects.cache
+C:\Users\anaka\Desktop\coding\Swift\sPalindrome\sPalindrome\obj\Debug\sPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\anaka\Desktop\coding\Swift\sPalindrome\sPalindrome\obj\Debug\sPalindrome.exe
+C:\Users\anaka\Desktop\coding\Swift\sPalindrome\sPalindrome\obj\Debug\sPalindrome.pdb

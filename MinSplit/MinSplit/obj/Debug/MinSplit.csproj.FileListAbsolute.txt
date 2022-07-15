@@ -1,0 +1,8 @@
+C:\Users\anaka\Desktop\coding\Swift\MinSplit\MinSplit\bin\Debug\MinSplit.exe.config
+C:\Users\anaka\Desktop\coding\Swift\MinSplit\MinSplit\bin\Debug\MinSplit.exe
+C:\Users\anaka\Desktop\coding\Swift\MinSplit\MinSplit\bin\Debug\MinSplit.pdb
+C:\Users\anaka\Desktop\coding\Swift\MinSplit\MinSplit\obj\Debug\MinSplit.csproj.AssemblyReference.cache
+C:\Users\anaka\Desktop\coding\Swift\MinSplit\MinSplit\obj\Debug\MinSplit.csproj.SuggestedBindingRedirects.cache
+C:\Users\anaka\Desktop\coding\Swift\MinSplit\MinSplit\obj\Debug\MinSplit.csproj.CoreCompileInputs.cache
+C:\Users\anaka\Desktop\coding\Swift\MinSplit\MinSplit\obj\Debug\MinSplit.exe
+C:\Users\anaka\Desktop\coding\Swift\MinSplit\MinSplit\obj\Debug\MinSplit.pdb
